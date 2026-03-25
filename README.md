@@ -1,3 +1,4 @@
+https://fifa-player-card.vercel.app/
 # ⚽ FIFA Player Cards
 
 A modern React application that displays FIFA player cards in an interactive, responsive grid layout. Built with React, Vite, and React Bootstrap to showcase professional football players with their detailed information.
